@@ -1,0 +1,24 @@
+# === PHP / Composer ===
+vendor/
+composer.lock
+
+# === Node.js / npm ===
+node_modules/
+package-lock.json
+
+# === Системные файлы и IDE ===
+.DS_Store
+Thumbs.db
+*.log
+
+# === Кэш и временные файлы ===
+/.cache
+/.idea
+/.vscode
+*.bak
+*.tmp
+
+# === OS-specific ===
+ehthumbs.db
+Icon?
+
